@@ -1,17 +1,16 @@
 {
   "name": "buble-jest",
   "version": "1.0.0",
-  "description": "Jest plugin to use buble and babel(handle ES Modules) for transformation",
+  "description":
+    "Jest plugin to use buble and babel(handle ES Modules) for transformation",
   "main": "index.js",
   "scripts": {
     "test": "jest"
   },
-  "keywords": [
-    "buble",
-    "jest",
-    "transform"
-  ],
+  "keywords": ["buble", "jest", "transform"],
   "author": "qingwei-li <cinwell.li@gmail.com> (https://github.com/QingWei-Li)",
+  "repository": "qingwei-li/buble-jest",
+  "homepage": "https://npm.im/buble-jest",
   "license": "MIT",
   "peerDependencies": {
     "buble": "*"
