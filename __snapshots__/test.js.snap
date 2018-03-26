@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ES Modules 1`] = `
+"\\"use strict\\";
+
+var _a = _interopRequireDefault(require(\\"./a\\"));
+
+function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
+
+(0, _a.default)();"
+`;
+
+exports[`es6 to es5 1`] = `
+"\\"use strict\\";
+
+!function() {};"
+`;
