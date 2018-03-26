@@ -35,3 +35,7 @@ Built-in [cosmiconfig](https://github.com/davidtheclark/cosmiconfig) so you can 
   }
 }
 ```
+
+## License
+
+MIT
